@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "333091359097",
+    "firebase_url": "https://stockbuzzinitial-default-rtdb.firebaseio.com",
+    "project_id": "stockbuzzinitial",
+    "storage_bucket": "stockbuzzinitial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333091359097:android:65db9ba359c9a6397087a8",
+        "android_client_info": {
+          "package_name": "com.example.stockbuzzinitial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333091359097-ukjuaknb70fq5docu5kcjvog9je5b51s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx3MiON0JrDIH9M325Jcjky7VCyMl1y6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333091359097-ukjuaknb70fq5docu5kcjvog9je5b51s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333091359097:android:be662769949bb9ad7087a8",
+        "android_client_info": {
+          "package_name": "com.example.welcomepage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333091359097-ukjuaknb70fq5docu5kcjvog9je5b51s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx3MiON0JrDIH9M325Jcjky7VCyMl1y6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333091359097-ukjuaknb70fq5docu5kcjvog9je5b51s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
